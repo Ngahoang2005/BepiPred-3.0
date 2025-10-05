@@ -1,4 +1,4 @@
-# BepiPred3.0-Predictor
+# BepiPred-3.0
 BepiPred3.0 predicts B-cell epitopes from ESM-2 encodings of proteins sequences. You can you this github to setup for local installment of BepiPred-3.0.
 We also provide BepiPred-3.0 is also provided as a [web service](https://services.healthtech.dtu.dk/service.php?BepiPred-3.0).
 For scientific questions, please contact Joakim Clifford (joacl@dtu.dk or create an issue in the github repository).
@@ -93,6 +93,7 @@ are false positives, meaning that they do not interact directly with an antibody
 If you found BepiPred-3.0 useful in your research, please cite,
 
 [BepiPred-3.0: Improved B-cell epitope prediction using protein language models](https://doi.org/10.1002/pro.4497)
+
 
 
 
