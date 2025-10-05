@@ -6,6 +6,9 @@ For scientific questions, please contact Joakim Clifford (joacl@dtu.dk or create
 ## License
 BepiPred-3.0 is developed by the Health Tech section at Technical University of Denmark (DTU). The BepiPred-3.0  code and data can be used freely by academic groups for non-commercial purposes. If you plan to use BepiPred-3.0 for any for-profit application, you are required to obtain a separate license (contact Morten Nielsen, morni@dtu.dk).
 
+## Graphical Abstract
+![Screenshot](BepiPred3GraphicalAbstract.png)
+
 ## Usage
 ### Set up
 The dependencies for the BepiPred-3.0 are listed in requirements.txt. These dependencies can be installed with pip. We used the **python version 3.8.8**. Other python versions may or may not be compatable with the packages listed in requirements.txt. It is recommended that you install the dependencies in a virtual environment.
@@ -90,5 +93,6 @@ are false positives, meaning that they do not interact directly with an antibody
 If you found BepiPred-3.0 useful in your research, please cite,
 
 [BepiPred-3.0: Improved B-cell epitope prediction using protein language models](https://doi.org/10.1002/pro.4497)
+
 
 
