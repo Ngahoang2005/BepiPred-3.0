@@ -6,6 +6,8 @@ import zipfile
 
 WORK_DIR = Path( Path(__file__).parent.resolve() )
 
+
+
 ### COMMAND LINE ARGUMENTS ###
 parser = argparse.ArgumentParser("Make B-cell epitope predictions from fasta file.")
 parser.add_argument("-i", required=True, action="store", dest="fasta_file", type=Path, help="Fasta file contianing antigens")
